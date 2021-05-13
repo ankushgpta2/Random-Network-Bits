@@ -121,7 +121,7 @@ for y in range(0, NUMBER_OF_NODES):
 plt.show()
 
 
-                                            # KNN FOR ALL THE NODES
+                                                 # KNN FOR ALL THE NODES
 
 
 # initializing variables + creating a bunch of storage arrays...
